@@ -62,7 +62,15 @@ nav a:hover {
     width: 60%;
     height: auto;
 }
-
+ 
+#about {
+    width: 50%;
+    height: 50%;
+}
+.service {
+    display: inline-block;
+    text-align: center;
+}
 .service {
     display: inline-block;
     background-color: white;
@@ -77,6 +85,7 @@ nav a:hover {
 table {
     border: 3px solid black;
     width: 100%;
+    padding: 0px;
 }
   
 td,
